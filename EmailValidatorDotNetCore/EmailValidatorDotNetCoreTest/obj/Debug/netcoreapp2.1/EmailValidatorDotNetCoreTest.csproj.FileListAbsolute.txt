@@ -1,0 +1,17 @@
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.deps.json
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.runtimeconfig.json
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.runtimeconfig.dev.json
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.dll
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.pdb
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCore.dll
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\bin\Debug\netcoreapp2.1\EmailValidatorDotNetCore.pdb
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.csprojAssemblyReference.cache
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.csproj.CoreCompileInputs.cache
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.AssemblyInfoInputs.cache
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.AssemblyInfo.cs
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.csproj.CopyComplete
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.dll
+C:\Users\isaltali\source\repos\EmailValidator\emailvalidator\EmailValidatorDotNetCore\EmailValidatorDotNetCoreTest\obj\Debug\netcoreapp2.1\EmailValidatorDotNetCoreTest.pdb
